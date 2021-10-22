@@ -48,3 +48,4 @@ public class MainActivity extends AppCompatActivity {
         };
         check.setOnClickListener(onClickListener);
     }
+}
